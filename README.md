@@ -1,8 +1,9 @@
 # Mission-to-Mars
 ## Overview of Project
-### The purpose of the Mission to Mars project is to scrape full-resolution images of Mar’s hemisphere to include titles and modify the design of the web application.
+### The purpose of the project is to scrape full-resolution images of Mar’s hemisphere to include titles and modify the design of the web application.The webpage was created by scraping four websites for news article, images, and a table. The scraped data was stored in Mongo database.  
 ## Results
 The webpage was created by HTML and CSS elements. 
+
 Images below are from the created webpage:
 
 ![Mission_Mars](https://user-images.githubusercontent.com/96746207/165005300-44454320-af63-4119-9ed0-c929125e1ac4.png)
